@@ -1,0 +1,1 @@
+We can see some cryptography techniques used in https. In contrary, there are no cryptography at all in http
